@@ -1,4 +1,4 @@
-# CosinePairsTradaer README
+# CosinePairsTrader README
 
 Hey there! This is CosinePairsTrader (I'm workshopping the name). I wanted to explore stock market dynamics and pairs-based trading using a 
 text-based approach. My aim was to further my understanding of financial models and dig a little deeper into some natural language processing tech, and ahve fun along the way!
